@@ -4,3 +4,5 @@ git add README.md
 git commit -m "first commit1"
 git remote add origin https://github.com/manju2606/SampleWebApplication.git
 git push -u origin master
+
+git pull
