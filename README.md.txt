@@ -7,5 +7,5 @@ git push -u origin master
 
 git pull
 
-git commit -m "first commit2"
+git commit -m "first commit"
 
