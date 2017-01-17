@@ -9,3 +9,7 @@ git pull
 
 git commit -m "first commit"
 
+
+git push -u https://github.com/manju2606/ArtifactorySWP.git
+
+
